@@ -1,0 +1,18 @@
+/* media queries  */
+
+h1 {
+  font-family: lucida-sans;
+  font-size: 100px;
+}
+
+nav {
+}
+
+.chrisPhoto {
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 50px;
+  }
+}
